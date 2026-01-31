@@ -1,0 +1,17 @@
+{
+  "library": {
+    "name": "JonaLab_Components",
+    "components": [
+      "./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"
+    ],
+    "description": "Experimental",
+    "id": "jonalab-components"
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1769679483804,
+      "version": "1.11.1"
+    }
+  }
+}

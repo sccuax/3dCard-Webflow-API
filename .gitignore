@@ -1,0 +1,6 @@
+# Next.js (Compilación y caché)
+.next/
+out/
+
+# Dependencias
+node_modules/
